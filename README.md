@@ -20,4 +20,4 @@ Para rodar a aplicação localmente:
   https://my-expenses-drab.vercel.app/login
    ```
 
-* Os dados estão salvos apenas localmente
+https://github.com/user-attachments/assets/1f526520-6f73-439e-bbdd-c502ab647583
