@@ -14,3 +14,10 @@ Para rodar a aplicação localmente:
    ```
    yarn dev
    ```
+* ou você pode testar a aplicação aqui:
+
+   ```
+  https://my-expenses-drab.vercel.app/login
+   ```
+
+* Os dados estão salvos apenas localmente
