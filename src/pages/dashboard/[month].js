@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import { useAppContext } from '../AppContext';
+import { useAppContext } from '../../contexts/AppContext';
 import '../globals.css';
 
 const MonthlyDashboard = () => {

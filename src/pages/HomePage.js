@@ -1,7 +1,7 @@
 import React from 'react';
 import './globals.css'
 import { useRouter } from 'next/router';
-import { FaMoneyBillWave, FaTachometerAlt, FaUser, FaSignOutAlt } from 'react-icons/fa';
+import { FaMoneyBillWave, FaUser, FaSignOutAlt } from 'react-icons/fa';
 
 const HomePage = () => {
   const router = useRouter();

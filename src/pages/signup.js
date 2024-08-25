@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import { useAppContext } from './AppContext';
+import { useAppContext } from '../contexts/AppContext';
 import './globals.css';
 
 const SignupPage = () => {

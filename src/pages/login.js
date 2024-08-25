@@ -3,7 +3,6 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 import './globals.css'
 
-
 const LoginPage = () => {
   const router = useRouter();
 

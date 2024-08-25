@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import { FaArrowLeft, FaCalendarAlt, FaPencilAlt, FaTrash, FaSave, FaPlus } from 'react-icons/fa';
-import { useAppContext } from './AppContext';
+import { useAppContext } from '../contexts/AppContext'
 import './globals.css';
 
 const YearListPage = () => {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import { useAppContext } from './AppContext';
+import { useAppContext } from '../contexts/AppContext';
 import { FaDollarSign, FaArrowLeft } from 'react-icons/fa';
 import './globals.css';
 

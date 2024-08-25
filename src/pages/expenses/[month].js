@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import { FaArrowLeft, FaPencilAlt, FaTrash, FaSave, FaPlus, FaMoneyBillAlt, FaChartLine } from 'react-icons/fa';
-import { useAppContext } from '../AppContext';
+import { useAppContext } from '../../contexts/AppContext';
 import '../globals.css';
 
 const ExpensesPage = () => {
